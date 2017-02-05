@@ -54,4 +54,26 @@ EPSCORE website: https://www.nsf.gov/od/oia/programs/epscor/
 ### SEC. 104. CYBERSECURITY RESEARCH.
 Ammendements adds wording "perform research to support the development of voluntary, consensus-based, industry-led standards and recommendations on the security of computers, computer networks, and computer data storage used in election systems to ensure voters can vote securely and privately.” to an existing act [15 U.S.C. 272(c)](http://uscode.house.gov/view.xhtml?req=(title:15%20section:272%20edition:prelim)
 
+### SEC. 105. NETWORKING AND INFORMATION TECHNOLOGY RESEARCH AND DEVELOPMENT UPDATE.
+The will amend the High-Performance Computing Act of 1991 (15 U.S.C. 5501), striking “high-performance computing” and inserting “networking and information technology, including high-performance computing.
 
+### SEC. 106. PHYSICAL SCIENCES COORDINATION.
+The Physical Science Subcommittee of the National Science and Technology Council shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
+
+### SEC. 107. LABORATORY PROGRAM IMPROVEMENTS.
+The Director of NIST, acting through the Associate Director for Laboratory Programs, shall develop and implement a comprehensive strategic plan for laboratory programs that expands interactions with academia, international researchers, and industry; and commercial and industrial applications. The strategic plan will include performance metrics, documentation, clarified approaches, and consider recommendations from the National Academy of Sciences.
+
+### SEC. 108. STANDARD REFERENCE DATA ACT UPDATE.
+Defines the term standard reference data as either 
+- quantitative information related to a measurable physical, or chemical, or biological property 
+- measurable characteristics of a physical artifact or artifacts
+- engineering properties or performance characteristics of a system
+- 1 or more digital data objects that serve to calibrate or characterize the performance of a detection or measurement system; or to interpolate or extrapolate, or both
+
+### SEC. 109. NSF MID-SCALE PROJECT INVESTMENTS.
+NSF funds major research facilities, infrastructure, and instrumentation that provide unique capabilities at the frontiers of science and engineering. Modern and effective research facilities, infrastructure, and instrumentation are critical to maintaining United States leadership in science and engineering. The costs of some proposed research instrumentation, equipment, and upgrades to major research facilities fall between programs currently funded by the Foundation, creating a gap between the established parameters of the Major Research Instrumentation and Major Research Equipment and Facilities Construction programs, including projects that have been identified as cost-effective additions of high priority to the advancement of scientific understanding.
+
+NSF shall evaluate the existing and future needs, across all disciplines supported by NSF, for mid-scale projects. In this subsection, **the term mid-scale projects means** research instrumentation, equipment, and upgrades to major research facilities or other research infrastructure investments that exceed the maximum award funded by the major research instrumentation program
+
+
+### SEC. 110. OVERSIGHT OF NSF MAJOR MULTI-USER RESEARCH FACILITY PROJECTS.
