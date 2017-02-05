@@ -30,6 +30,7 @@ All public notices must:
 - clearly identifying the research goals of the project in a manner that can be easily understood by both technical and non-technical audiences.
 
 The NSF shall apply a broader impacts review criterion to identify and demonstrate project support of the following goals:
+
 1. Increasing the economic competitiveness of the United States.
 2. Advancing of the health and welfare of the American public.
 3. Supporting the national defense of the United States.
@@ -39,6 +40,7 @@ The NSF shall apply a broader impacts review criterion to identify and demonstra
 7. Expanding participation of women and individuals from underrepresented groups in STEM.
 
 **Rayna's Side note: As far as I can tell, the current broader impact criterion were set back in 2007 in [this dear colleague letter](https://www.nsf.gov/pubs/2007/nsf07046/nsf07046.jsp). They are**
+
 1. Advance discovery and understanding while promoting teaching, training, and learning, for example, by training graduate students, mentoring postdoctoral researchers and junior faculty,  involving undergraduates in research experiences, and participating in the recruitment, training, and professional development of K-12 mathematics and science teachers.
 2. Broaden participation of under-represented groups, for example,by establishing collaborations with students and faculty from institutions and organizations serving women, minorities, and other groups under-represented in the mathematical sciences.
 3. Enhance infrastructure for research and education, for example, byestablishing collaborations with researchers in industry and government laboratories, developing partnerships with international academic institutions and organizations, and building networks of U.S. colleges and universities.
