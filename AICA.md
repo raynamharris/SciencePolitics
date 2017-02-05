@@ -1,6 +1,8 @@
 # Summary of the American Innovation and Competitiveness Act
 
-To invest in innovation through research and development, and to improve the competitiveness of the United States.
+*See the official bill here: https://www.congress.gov/bill/114th-congress/senate-bill/3084/text*
+
+Goal: An act to invest in innovation through research and development, and to improve the competitiveness of the United States.
 
 ## SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 This Act may be cited as the **American Innovation and Competitiveness Act**.
@@ -13,3 +15,10 @@ This Act may be cited as the **American Innovation and Competitiveness Act**.
 - The term **NIST** means the National Institute of Standards and Technology.
 - The term **STEM** has the meaning given the term in section 2 of the American COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621 note).
 - The term **STEM education** has the meaning given the term in section 2 of the STEM Education Act of 2015 (42 U.S.C. 6621 note).
+
+## TITLE I — MAXIMIZING BASIC RESEARCH - Highlights and Summaries
+
+### SEC. 101. REAFFIRMATION OF MERIT-BASED PEER REVIEW.
+Congress thinks that Federal funding of basic research is essential to US leadership in science and technology. **NSF's intellectual merit and broader impacts review criteria are appropriate and should be maintained**, as concluded by the 2011 National Science Board Task Force on Merit Review. If after the date of enactment of this Act a change is made to the merit-review process, the Director shall submit a report to the appropriate committees of Congress not later than 30 days after the date of the change.
+
+### SEC. 102. TRANSPARENCY AND ACCOUNTABILITY.
