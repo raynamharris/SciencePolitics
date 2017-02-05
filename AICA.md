@@ -16,7 +16,7 @@ This Act may be cited as the **American Innovation and Competitiveness Act**.
 - The term **STEM** has the meaning given the term in section 2 of the American COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621 note).
 - The term **STEM education** has the meaning given the term in section 2 of the STEM Education Act of 2015 (42 U.S.C. 6621 note).
 
-## TITLE I — MAXIMIZING BASIC RESEARCH - Highlights and Summaries
+## TITLE I — MAXIMIZING BASIC RESEARCH - Highlights, Summaries, and Notes
 
 ### SEC. 101. REAFFIRMATION OF MERIT-BASED PEER REVIEW.
 Congress thinks that Federal funding of basic research is essential to US leadership in science and technology. **NSF's intellectual merit and broader impacts review criteria are appropriate and should be maintained**, as concluded by the 2011 National Science Board Task Force on Merit Review. If after the date of enactment of this Act a change is made to the merit-review process, the Director shall submit a report to the appropriate committees of Congress not later than 30 days after the date of the change.
@@ -44,4 +44,12 @@ The NSF shall apply a broader impacts review criterion to identify and demonstra
 3. Enhance infrastructure for research and education, for example, byestablishing collaborations with researchers in industry and government laboratories, developing partnerships with international academic institutions and organizations, and building networks of U.S. colleges and universities.
 4. Broaden dissemination to enhance scientific and technological understanding, for example, bypresenting results of research and education projects in formats useful to students, scientists and engineers, members of Congress, teachers, and the general public.
 5. Benefits to society mayoccur, for example, when results of research and education projects are applied to other fields of science and technology to create startup companies, to improve commercial technology, to inform public policy, and to enhance national security.
+
+### SEC. 103. EPSCOR (Experimental Program to Stimulate Competitive Research) REAFFIRMATION AND UPDATE.
+Rayna's comments: This section reads like a transcript of a tracked changes word file. But, I think that main thing is that the name will be changed from "Experimental" to "Established" and that all the changes were made to reflect updates about the success of the program. 
+EPSCORE website: https://www.nsf.gov/od/oia/programs/epscor/
+
+### SEC. 104. CYBERSECURITY RESEARCH.
+Ammendements adds wording "perform research to support the development of voluntary, consensus-based, industry-led standards and recommendations on the security of computers, computer networks, and computer data storage used in election systems to ensure voters can vote securely and privately.” to an existing act [15 U.S.C. 272(c)](http://uscode.house.gov/view.xhtml?req=(title:15%20section:272%20edition:prelim)
+
 
