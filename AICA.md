@@ -41,11 +41,11 @@ The NSF shall apply a broader impacts review criterion to identify and demonstra
 
 **Rayna's Side note: As far as I can tell, the current broader impact criterion were set back in 2007 in [this dear colleague letter](https://www.nsf.gov/pubs/2007/nsf07046/nsf07046.jsp). They are**
 
-1. Advance discovery and understanding while promoting teaching, training, and learning, for example, by training graduate students, mentoring postdoctoral researchers and junior faculty,  involving undergraduates in research experiences, and participating in the recruitment, training, and professional development of K-12 mathematics and science teachers.
-2. Broaden participation of under-represented groups, for example,by establishing collaborations with students and faculty from institutions and organizations serving women, minorities, and other groups under-represented in the mathematical sciences.
-3. Enhance infrastructure for research and education, for example, byestablishing collaborations with researchers in industry and government laboratories, developing partnerships with international academic institutions and organizations, and building networks of U.S. colleges and universities.
-4. Broaden dissemination to enhance scientific and technological understanding, for example, bypresenting results of research and education projects in formats useful to students, scientists and engineers, members of Congress, teachers, and the general public.
-5. Benefits to society mayoccur, for example, when results of research and education projects are applied to other fields of science and technology to create startup companies, to improve commercial technology, to inform public policy, and to enhance national security.
+1. Advance discovery and understanding while promoting teaching, training, and learning.
+2. Broaden participation of under-represented groups.
+3. Enhance infrastructure for research and education.
+4. Broaden dissemination to enhance scientific and technological understanding.
+5. Benefits to society.
 
 ### SEC. 103. EPSCOR (Experimental Program to Stimulate Competitive Research) REAFFIRMATION AND UPDATE.
 Rayna's comments: This section reads like a transcript of a tracked changes word file. But, I think that main thing is that the name will be changed from "Experimental" to "Established" and that all the changes were made to reflect updates about the success of the program. 
